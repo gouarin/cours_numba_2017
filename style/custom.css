@@ -104,6 +104,11 @@ div.cell{
     .warning{
         color: rgb( 240, 20, 20 ) !important;
         }
+
+    .toc-item-num {
+        display: none;
+    }
+  
 </style>
 
 <script>
