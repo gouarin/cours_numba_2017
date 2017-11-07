@@ -1,7 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-from origin import *
+from solutions.jit_gu import *
+#from origin import *
 import time
 
 img_size = 5000
